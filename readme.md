@@ -2,4 +2,4 @@
 
     library(shiny)
     library(shinyBS)
-    runGitHub('expShiny','YunlongNie')
+    runGitHub('expshiny','YunlongNie')
